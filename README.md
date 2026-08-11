@@ -13,7 +13,8 @@ LearnSphere aims to provide a centralized platform where students can manage the
 To develop a centralized student learning platform with an integrated analytics system that helps students manage their courses and helps administrators make data-driven decisions about learning performance and course effectiveness.
 
 
-****Specific Objectives
+**Specific Objectives**
+
 **Student Side**
 Browse available courses.
 Search and filter courses.
@@ -25,6 +26,7 @@ Attempt quizzes.
 View quiz performance.
 Submit feedback and ratings.
 View personal learning statistics.
+
 **Admin Side**
 Manage students.
 Manage courses.
@@ -36,6 +38,7 @@ Monitor student progress.
 Analyze quiz performance.
 Analyze course ratings.
 Generate reports.
+
 **Analytics**
 Identify popular courses.
 Analyze student engagement.
