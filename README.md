@@ -16,35 +16,38 @@ To develop a centralized student learning platform with an integrated analytics 
 **Specific Objectives**
 
 **Student Side**
-Browse available courses.
-Search and filter courses.
-Add courses to favorites.
-Enroll in courses.
-Track course progress.
-Complete lessons.
-Attempt quizzes.
-View quiz performance.
-Submit feedback and ratings.
+
+Browse available courses,
+Search and filter courses,
+Add courses to favorites,
+Enroll in courses,
+Track course progress,
+Complete lessons,
+Attempt quizzes,
+View quiz performance,
+Submit feedback and ratings,
 View personal learning statistics.
 
 **Admin Side**
-Manage students.
-Manage courses.
-Manage instructors.
-Manage categories.
-Manage lessons.
-Monitor enrollments.
-Monitor student progress.
-Analyze quiz performance.
-Analyze course ratings.
+
+Manage students,
+Manage courses,
+Manage instructors,
+Manage categories,
+Manage lessons,
+Monitor enrollments,
+Monitor student progress,
+Analyze quiz performance,
+Analyze course ratings,
 Generate reports.
 
 **Analytics**
-Identify popular courses.
-Analyze student engagement.
-Calculate course completion rates.
-Analyze quiz performance.
-Compare course categories.
-Analyze instructor performance.
-Identify courses with high enrollment but low completion.
+
+Identify popular courses,
+Analyze student engagement,
+Calculate course completion rates,
+Analyze quiz performance,
+Compare course categories,
+Analyze instructor performance,
+Identify courses with high enrollment but low completion,
 Generate actionable insights.
